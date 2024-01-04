@@ -1,8 +1,11 @@
 SpotEase: Dynamic Parking Optimization System
+
 Overview
+
 SpotEase is a comprehensive Dynamic Parking Optimization System designed to enhance parking management and customer experience. This system incorporates a dynamic MySQL parking database, which has significantly improved data accuracy by 80%. Additionally, it facilitates seamless parking pass purchases through a user-friendly mobile application developed using Microsoft Power App.
 
 Key Features
+
 1. Dynamic MySQL Parking Database
 SpotEase utilizes a robust MySQL database that dynamically manages parking information. This database has been fine-tuned to enhance data accuracy, providing a reliable foundation for all parking-related operations.
 
